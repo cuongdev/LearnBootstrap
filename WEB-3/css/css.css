@@ -1,0 +1,68 @@
+*{
+    /* color: beige; */
+
+}
+
+.footer {
+    padding: 60px 0px;
+    background: #2f2f2f;
+    color: white;
+    font-size: 16px;
+    margin-top: 50px;
+}
+
+.where h2 {
+    padding: 50px 0px;
+}
+
+.background-brown .btn.btn-default {
+    font-size: 17px;
+    padding: 7px 16px;
+}
+
+.background-brown p {
+    padding-top: 30px;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+.background-brown {
+    padding-top: 85px;
+    background: #474e5d;
+    color: white;
+    padding-bottom: 50px;
+}
+
+.background h3 {
+    padding-bottom: 25px;
+    padding-top: 15px;
+}
+
+.background {
+    background: teal;
+    color: white;
+    /* padding: 100px; */
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
+nav.navbar.navbar-default {
+    border: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+    text-transform: uppercase;
+    letter-spacing: 1.9px;
+    font-size: 14px;
+}
+
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #337ab7;
+}
+
+nav.navbar.navbar-default {
+    height: 80px;
+    padding-top: 14px;
+    margin: 0px;
+}
