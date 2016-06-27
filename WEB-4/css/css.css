@@ -1,0 +1,95 @@
+*{
+    
+}
+
+.footer small {
+    color: gray;
+}
+
+.footer {
+    padding-bottom: 20px;
+}
+
+.menutrai li {
+    float: left;
+    list-style: none;
+    margin-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.nut {
+    margin-top: 20px;
+}
+
+.background {
+    padding: 60px 0px;
+    background: url('../images/1.jpg');
+    color: white;
+}
+
+.background-trang h2 {
+    font-weight: 700;
+}
+
+.background-trang p {
+    padding: 18px;
+    font-size: 15px;
+}
+
+.background-trang {
+    padding: 50px 0px;
+}
+
+.background-xam p {
+    font-size: 15px;
+    padding-top: 18px;
+}
+
+hr.ngan {
+    width: 50%;
+    margin-left: 0px;
+    background: black;
+    border-top: 1px solid #e7e7e7;
+}
+
+.col-xs-5.col-sm-5.col-md-5.col-lg-5 {}
+
+.background-xam h2 {
+    font-weight: 700;
+}
+
+.background-xam {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #f8f8f8;
+    /* color: white; */
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.background-top h3 {
+    font-size: 22px;
+}
+
+.background-top h1 {
+    font-size: 46px;
+    font-weight: 900;
+    text-shadow: 0px 1px 0px black;
+}
+
+nav.navbar.navbar-default {
+    margin: 0px;
+}
+
+.background-top {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background: url('../images/1.jpg');
+    /* margin: 0px; */
+    color: white;
+}
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
